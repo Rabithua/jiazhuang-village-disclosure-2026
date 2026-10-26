@@ -1,0 +1,679 @@
+{
+  "summary": {
+    "records": 57,
+    "new_sum": 9886742,
+    "old_verified_sum": 11475842,
+    "changed_amount_records": [
+      {
+        "xlsx_row": 19,
+        "asset": "电脑",
+        "old_pdf_page": 2,
+        "old_pdf_row": 13,
+        "old_book_net": 3500,
+        "new_book_net": 3500,
+        "old_verified_net": 1592600,
+        "new_verified_net": 3500,
+        "delta_verified_net": -1589100
+      }
+    ],
+    "all_book_net_unchanged": true,
+    "sheet_name": "固定资产清查登记表-1（经营性固定资产）信息",
+    "displayed_title": "固定资产清查登记表-2（非经营性固定资产）信息",
+    "missing_id_count": 57,
+    "missing_parcel_count": 57,
+    "accounting_depreciation_blank": 57,
+    "verified_depreciation_zero": 57,
+    "value_errors": [],
+    "comment_count": 0,
+    "photo_links": [],
+    "external_links_count": 0,
+    "row_level_reference_types": {
+      "T": [
+        "=R#"
+      ],
+      "AB": [
+        "#",
+        "=P#"
+      ],
+      "AC": [
+        "=Q#"
+      ],
+      "AD": [
+        "=R#"
+      ],
+      "AF": [
+        "=R#"
+      ]
+    },
+    "baseline_note": "Only book net and verified original/net confidently readable amounts compared; old meeting desk2 original ambiguous and not used as a confirmed change."
+  },
+  "rows": [
+    {
+      "xlsx_row": 7,
+      "asset": "自来水厂",
+      "old_pdf_page": 2,
+      "old_pdf_row": 1,
+      "old_book_net": 1405000,
+      "new_book_net": 1405000,
+      "old_verified_net": 1405000,
+      "new_verified_net": 1405000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 8,
+      "asset": "村办公楼",
+      "old_pdf_page": 2,
+      "old_pdf_row": 2,
+      "old_book_net": 66000,
+      "new_book_net": 66000,
+      "old_verified_net": 66000,
+      "new_verified_net": 66000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 9,
+      "asset": "卫生室",
+      "old_pdf_page": 2,
+      "old_pdf_row": 3,
+      "old_book_net": 120000,
+      "new_book_net": 120000,
+      "old_verified_net": 120000,
+      "new_verified_net": 120000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 10,
+      "asset": "文化广场",
+      "old_pdf_page": 2,
+      "old_pdf_row": 4,
+      "old_book_net": 290000,
+      "new_book_net": 290000,
+      "old_verified_net": 290000,
+      "new_verified_net": 290000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 11,
+      "asset": "路灯",
+      "old_pdf_page": 2,
+      "old_pdf_row": 5,
+      "old_book_net": 165000,
+      "new_book_net": 165000,
+      "old_verified_net": 165000,
+      "new_verified_net": 165000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 12,
+      "asset": "电脑",
+      "old_pdf_page": 2,
+      "old_pdf_row": 6,
+      "old_book_net": 7500,
+      "new_book_net": 7500,
+      "old_verified_net": 7500,
+      "new_verified_net": 7500,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 13,
+      "asset": "打印机",
+      "old_pdf_page": 2,
+      "old_pdf_row": 7,
+      "old_book_net": 4900,
+      "new_book_net": 4900,
+      "old_verified_net": 4900,
+      "new_verified_net": 4900,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 14,
+      "asset": "监控",
+      "old_pdf_page": 2,
+      "old_pdf_row": 8,
+      "old_book_net": 40000,
+      "new_book_net": 40000,
+      "old_verified_net": 40000,
+      "new_verified_net": 40000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 15,
+      "asset": "空调（柜机）",
+      "old_pdf_page": 2,
+      "old_pdf_row": 9,
+      "old_book_net": 7000,
+      "new_book_net": 7000,
+      "old_verified_net": 7000,
+      "new_verified_net": 7000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 16,
+      "asset": "电视机1",
+      "old_pdf_page": 2,
+      "old_pdf_row": 10,
+      "old_book_net": 2800,
+      "new_book_net": 2800,
+      "old_verified_net": 2800,
+      "new_verified_net": 2800,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 17,
+      "asset": "投影机\n",
+      "old_pdf_page": 2,
+      "old_pdf_row": 11,
+      "old_book_net": 1000,
+      "new_book_net": 1000,
+      "old_verified_net": 1000,
+      "new_verified_net": 1000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 18,
+      "asset": "音响",
+      "old_pdf_page": 2,
+      "old_pdf_row": 12,
+      "old_book_net": 1500,
+      "new_book_net": 1500,
+      "old_verified_net": 1500,
+      "new_verified_net": 1500,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 19,
+      "asset": "电脑",
+      "old_pdf_page": 2,
+      "old_pdf_row": 13,
+      "old_book_net": 3500,
+      "new_book_net": 3500,
+      "old_verified_net": 1592600,
+      "new_verified_net": 3500,
+      "delta_verified_net": -1589100
+    },
+    {
+      "xlsx_row": 20,
+      "asset": "水井及配套",
+      "old_pdf_page": 2,
+      "old_pdf_row": 14,
+      "old_book_net": 1260000,
+      "new_book_net": 1260000,
+      "old_verified_net": 1260000,
+      "new_verified_net": 1260000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 21,
+      "asset": "井(水井及配套设施)",
+      "old_pdf_page": 2,
+      "old_pdf_row": 15,
+      "old_book_net": 1956600,
+      "new_book_net": 1956600,
+      "old_verified_net": 1956600,
+      "new_verified_net": 1956600,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 22,
+      "asset": "柜式空调",
+      "old_pdf_page": 2,
+      "old_pdf_row": 16,
+      "old_book_net": 7000,
+      "new_book_net": 7000,
+      "old_verified_net": 7000,
+      "new_verified_net": 7000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 23,
+      "asset": "打印机",
+      "old_pdf_page": 2,
+      "old_pdf_row": 17,
+      "old_book_net": 1700,
+      "new_book_net": 1700,
+      "old_verified_net": 1700,
+      "new_verified_net": 1700,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 24,
+      "asset": "扩音设备",
+      "old_pdf_page": 2,
+      "old_pdf_row": 18,
+      "old_book_net": 1000,
+      "new_book_net": 1000,
+      "old_verified_net": 1000,
+      "new_verified_net": 1000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 25,
+      "asset": "机动三\n轮垃圾车",
+      "old_pdf_page": 2,
+      "old_pdf_row": 19,
+      "old_book_net": 18000,
+      "new_book_net": 18000,
+      "old_verified_net": 18000,
+      "new_verified_net": 18000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 26,
+      "asset": "电视机2",
+      "old_pdf_page": 2,
+      "old_pdf_row": 20,
+      "old_book_net": 2300,
+      "new_book_net": 2300,
+      "old_verified_net": 2300,
+      "new_verified_net": 2300,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 27,
+      "asset": "监控系统",
+      "old_pdf_page": 2,
+      "old_pdf_row": 21,
+      "old_book_net": 38000,
+      "new_book_net": 38000,
+      "old_verified_net": 38000,
+      "new_verified_net": 38000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 28,
+      "asset": "彩色打印机",
+      "old_pdf_page": 2,
+      "old_pdf_row": 22,
+      "old_book_net": 1500,
+      "new_book_net": 1500,
+      "old_verified_net": 1500,
+      "new_verified_net": 1500,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 29,
+      "asset": "黑白打印机",
+      "old_pdf_page": 2,
+      "old_pdf_row": 23,
+      "old_book_net": 1300,
+      "new_book_net": 1300,
+      "old_verified_net": 1300,
+      "new_verified_net": 1300,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 30,
+      "asset": "空调柜机",
+      "old_pdf_page": 2,
+      "old_pdf_row": 24,
+      "old_book_net": 5800,
+      "new_book_net": 5800,
+      "old_verified_net": 5800,
+      "new_verified_net": 5800,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 31,
+      "asset": "电脑显示屏",
+      "old_pdf_page": 3,
+      "old_pdf_row": 1,
+      "old_book_net": 900,
+      "new_book_net": 900,
+      "old_verified_net": 900,
+      "new_verified_net": 900,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 32,
+      "asset": "文化广场",
+      "old_pdf_page": 3,
+      "old_pdf_row": 2,
+      "old_book_net": 478400,
+      "new_book_net": 478400,
+      "old_verified_net": 478400,
+      "new_verified_net": 478400,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 33,
+      "asset": "书案",
+      "old_pdf_page": 3,
+      "old_pdf_row": 3,
+      "old_book_net": 300,
+      "new_book_net": 300,
+      "old_verified_net": 300,
+      "new_verified_net": 300,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 34,
+      "asset": "办公桌",
+      "old_pdf_page": 3,
+      "old_pdf_row": 4,
+      "old_book_net": 700,
+      "new_book_net": 700,
+      "old_verified_net": 700,
+      "new_verified_net": 700,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 35,
+      "asset": "会议案",
+      "old_pdf_page": 3,
+      "old_pdf_row": 5,
+      "old_book_net": 2000,
+      "new_book_net": 2000,
+      "old_verified_net": 2000,
+      "new_verified_net": 2000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 36,
+      "asset": "办公椅",
+      "old_pdf_page": 3,
+      "old_pdf_row": 6,
+      "old_book_net": 1560,
+      "new_book_net": 1560,
+      "old_verified_net": 1560,
+      "new_verified_net": 1560,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 37,
+      "asset": "铁皮文件柜",
+      "old_pdf_page": 3,
+      "old_pdf_row": 7,
+      "old_book_net": 4200,
+      "new_book_net": 4200,
+      "old_verified_net": 4200,
+      "new_verified_net": 4200,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 38,
+      "asset": "饮水机",
+      "old_pdf_page": 3,
+      "old_pdf_row": 8,
+      "old_book_net": 600,
+      "new_book_net": 600,
+      "old_verified_net": 600,
+      "new_verified_net": 600,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 39,
+      "asset": "皮鼓",
+      "old_pdf_page": 3,
+      "old_pdf_row": 9,
+      "old_book_net": 3000,
+      "new_book_net": 3000,
+      "old_verified_net": 3000,
+      "new_verified_net": 3000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 40,
+      "asset": "空调挂机",
+      "old_pdf_page": 3,
+      "old_pdf_row": 10,
+      "old_book_net": 3100,
+      "new_book_net": 3100,
+      "old_verified_net": 3100,
+      "new_verified_net": 3100,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 41,
+      "asset": "应急广播系统",
+      "old_pdf_page": 3,
+      "old_pdf_row": 11,
+      "old_book_net": 1500,
+      "new_book_net": 1500,
+      "old_verified_net": 1500,
+      "new_verified_net": 1500,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 42,
+      "asset": "仿皮沙\n发（套 )",
+      "old_pdf_page": 3,
+      "old_pdf_row": 12,
+      "old_book_net": 1500,
+      "new_book_net": 1500,
+      "old_verified_net": 1500,
+      "new_verified_net": 1500,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 43,
+      "asset": "吊扇",
+      "old_pdf_page": 3,
+      "old_pdf_row": 13,
+      "old_book_net": 1400,
+      "new_book_net": 1400,
+      "old_verified_net": 1400,
+      "new_verified_net": 1400,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 44,
+      "asset": "木椅",
+      "old_pdf_page": 3,
+      "old_pdf_row": 14,
+      "old_book_net": 1500,
+      "new_book_net": 1500,
+      "old_verified_net": 1500,
+      "new_verified_net": 1500,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 45,
+      "asset": "条形桌",
+      "old_pdf_page": 3,
+      "old_pdf_row": 15,
+      "old_book_net": 2000,
+      "new_book_net": 2000,
+      "old_verified_net": 2000,
+      "new_verified_net": 2000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 46,
+      "asset": "图书",
+      "old_pdf_page": 3,
+      "old_pdf_row": 16,
+      "old_book_net": 8000,
+      "new_book_net": 8000,
+      "old_verified_net": 8000,
+      "new_verified_net": 8000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 47,
+      "asset": "读书桌（含6把椅子）",
+      "old_pdf_page": 3,
+      "old_pdf_row": 17,
+      "old_book_net": 800,
+      "new_book_net": 800,
+      "old_verified_net": 800,
+      "new_verified_net": 800,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 48,
+      "asset": "不锈钢展示架",
+      "old_pdf_page": 3,
+      "old_pdf_row": 18,
+      "old_book_net": 5600,
+      "new_book_net": 5600,
+      "old_verified_net": 5600,
+      "new_verified_net": 5600,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 49,
+      "asset": "高拍仪",
+      "old_pdf_page": 3,
+      "old_pdf_row": 19,
+      "old_book_net": 300,
+      "new_book_net": 300,
+      "old_verified_net": 300,
+      "new_verified_net": 300,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 50,
+      "asset": "硬化道路",
+      "old_pdf_page": 3,
+      "old_pdf_row": 20,
+      "old_book_net": 3389100,
+      "new_book_net": 3389100,
+      "old_verified_net": 3389100,
+      "new_verified_net": 3389100,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 51,
+      "asset": "西张家文化广场",
+      "old_pdf_page": 3,
+      "old_pdf_row": 21,
+      "old_book_net": 290000,
+      "new_book_net": 290000,
+      "old_verified_net": 290000,
+      "new_verified_net": 290000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 52,
+      "asset": "黑白打印机",
+      "old_pdf_page": 3,
+      "old_pdf_row": 22,
+      "old_book_net": 1300,
+      "new_book_net": 1300,
+      "old_verified_net": 1300,
+      "new_verified_net": 1300,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 53,
+      "asset": "彩色打印机",
+      "old_pdf_page": 3,
+      "old_pdf_row": 23,
+      "old_book_net": 1500,
+      "new_book_net": 1500,
+      "old_verified_net": 1500,
+      "new_verified_net": 1500,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 54,
+      "asset": "柜机空调",
+      "old_pdf_page": 3,
+      "old_pdf_row": 24,
+      "old_book_net": 5800,
+      "new_book_net": 5800,
+      "old_verified_net": 5800,
+      "new_verified_net": 5800,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 55,
+      "asset": "会议桌1",
+      "old_pdf_page": 3,
+      "old_pdf_row": 25,
+      "old_book_net": 1782,
+      "new_book_net": 1782,
+      "old_verified_net": 1782,
+      "new_verified_net": 1782,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 56,
+      "asset": "会议桌2",
+      "old_pdf_page": 3,
+      "old_pdf_row": 26,
+      "old_book_net": 3762,
+      "new_book_net": 3762,
+      "old_verified_net": 3762,
+      "new_verified_net": 3762,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 57,
+      "asset": "茶水机",
+      "old_pdf_page": 3,
+      "old_pdf_row": 27,
+      "old_book_net": 600,
+      "new_book_net": 600,
+      "old_verified_net": 600,
+      "new_verified_net": 600,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 58,
+      "asset": "办公桌",
+      "old_pdf_page": 3,
+      "old_pdf_row": 28,
+      "old_book_net": 445,
+      "new_book_net": 445,
+      "old_verified_net": 445,
+      "new_verified_net": 445,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 59,
+      "asset": "茶几",
+      "old_pdf_page": 3,
+      "old_pdf_row": 29,
+      "old_book_net": 393,
+      "new_book_net": 393,
+      "old_verified_net": 393,
+      "new_verified_net": 393,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 60,
+      "asset": "办公椅",
+      "old_pdf_page": 3,
+      "old_pdf_row": 30,
+      "old_book_net": 4800,
+      "new_book_net": 4800,
+      "old_verified_net": 4800,
+      "new_verified_net": 4800,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 61,
+      "asset": "进地桥",
+      "old_pdf_page": 4,
+      "old_pdf_row": 1,
+      "old_book_net": 261000,
+      "new_book_net": 261000,
+      "old_verified_net": 261000,
+      "new_verified_net": 261000,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 62,
+      "asset": "旗杆",
+      "old_pdf_page": 4,
+      "old_pdf_row": 2,
+      "old_book_net": 500,
+      "new_book_net": 500,
+      "old_verified_net": 500,
+      "new_verified_net": 500,
+      "delta_verified_net": 0
+    },
+    {
+      "xlsx_row": 63,
+      "asset": "水塔罐",
+      "old_pdf_page": 4,
+      "old_pdf_row": 3,
+      "old_book_net": 1000,
+      "new_book_net": 1000,
+      "old_verified_net": 1000,
+      "new_verified_net": 1000,
+      "delta_verified_net": 0
+    }
+  ]
+}
