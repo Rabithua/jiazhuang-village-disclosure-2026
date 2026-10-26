@@ -1,0 +1,41 @@
+{
+  "title": "河南、南阳、镇平政策依据补充",
+  "as_of": "2026-10-26",
+  "records": [
+    {
+      "path": "01_政策核对说明.txt",
+      "size_bytes": 10408,
+      "sha256": "8166762259cf5a76ca3d3ace6bacc409520b27c8c481488ec52b005dc2ad78cf",
+      "kind": "compiled_reference"
+    },
+    {
+      "path": "02_20项问题对应依据.txt",
+      "size_bytes": 3031,
+      "sha256": "96eddb7afd429db660b1cee45f205e9d45114f869497a2edf6760d4e5d1f5b76",
+      "kind": "compiled_reference"
+    },
+    {
+      "path": "03_河南省农村集体财产管理办法_官方原始附件.pdf",
+      "size_bytes": 290027,
+      "sha256": "85f9fcc84320c7222b2a7b2e4ecdd366277a89ebe44213d7c40735e0ecd78d8d",
+      "kind": "original_official_attachment",
+      "source_url": "https://nyj.nanyang.gov.cn/ifile/20250731/17539279758193Nbc268B.pdf",
+      "source_page": "https://nyj.nanyang.gov.cn/2025/07-31/1086394.html",
+      "retrieved_date": "2026-10-26",
+      "pages": 11,
+      "printed_pages": "2–12",
+      "note": "原始下载字节；缺省原发通知首页，未见省原发文号。"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 6514,
+      "sha256": "e6a3b792b672c1c31e707f0c78cbef45ed4a3e6cf1d66a4a45d03d203c469bb9",
+      "kind": "compiled_reference"
+    }
+  ],
+  "notes": [
+    "政策说明与对应表为人工整理，官方来源URL列于README及说明正文。",
+    "正式法规、管理文件、政策意见、会议部署和地方实践分层使用。",
+    "独立清单，不改变materials原始公示资料。"
+  ]
+}

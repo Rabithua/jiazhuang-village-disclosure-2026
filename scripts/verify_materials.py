@@ -14,8 +14,7 @@ def sha256(path):
     return result.hexdigest()
 
 
-def main():
-    base = (Path(__file__).resolve().parents[1] / 'materials').resolve()
+def verify_archive(base):
     checksum_file = base / 'SHA256SUMS.txt'
     problems = []
     expected_files = {checksum_file}
@@ -50,9 +49,15 @@ def main():
     if problems:
         print('\n'.join(problems), file=sys.stderr)
         return 1
-    print('Verified: {} checksum entries, {} manifest records, {} archived files.'.format(
-        checked, len(manifest['records']), len(actual)))
+    print('Verified {}: {} checksum entries, {} manifest records, {} archived files.'.format(
+        base.name, checked, len(manifest['records']), len(actual)))
     return 0
+
+
+def main():
+    root = Path(__file__).resolve().parents[1]
+    results = [verify_archive((root / name).resolve()) for name in ('materials', 'policies')]
+    return 1 if any(results) else 0
 
 
 if __name__ == '__main__':
