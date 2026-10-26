@@ -1,0 +1,31 @@
+{
+  "received_date": "2026-10-26",
+  "records": [
+    {
+      "path": "原始文件/2非经营性资产清查表.xlsx",
+      "size_bytes": 32051,
+      "sha256": "b051e9124da121568b0e86c279cba43194ad3816c25e692e7dd76fa340f456bb",
+      "kind": "user_supplied_original",
+      "source": "用户于2026年10月26日通过本聊天补充"
+    },
+    {
+      "path": "核对结果.txt",
+      "size_bytes": 6473,
+      "sha256": "d4999b2d3d54d703ccbc3c2ac01c11d969739c5e1881f3ae3133b2e062a1cab2",
+      "kind": "analysis",
+      "source": "与原公示逐项对照及公式核验"
+    },
+    {
+      "path": "金额逐项对照.json",
+      "size_bytes": 16507,
+      "sha256": "434961f49ab62ec6a072e4f36ddf264090492f8e8e2f80b9bfa5242a06accf17",
+      "kind": "analysis",
+      "source": "与原公示逐项对照及公式核验"
+    }
+  ],
+  "notes": [
+    "原始xlsx只读保存，未修改或重存。",
+    "本文件未附正式更正通知；收到日期不等于文件内填报日期。",
+    "原公示资料及政策目录继续保留。"
+  ]
+}

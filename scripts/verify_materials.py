@@ -56,7 +56,8 @@ def verify_archive(base):
 
 def main():
     root = Path(__file__).resolve().parents[1]
-    results = [verify_archive((root / name).resolve()) for name in ('materials', 'policies')]
+    names = ('materials', 'policies', 'updates/2026-10-26-corrected-assets')
+    results = [verify_archive((root / name).resolve()) for name in names]
     return 1 if any(results) else 0
 
 
