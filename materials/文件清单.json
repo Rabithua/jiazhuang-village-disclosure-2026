@@ -1,0 +1,260 @@
+{
+  "package_title": "贾庄村三资公示资料包_2026-10-26",
+  "archive_created_at": "2026-10-26T12:43:11+08:00",
+  "timezone": "Asia/Shanghai",
+  "original_pdf_count": 3,
+  "original_pdf_pages": 28,
+  "original_screenshot_count": 4,
+  "auxiliary_image_count": 9,
+  "hash_algorithm": "SHA-256",
+  "source_scope": "本次聊天中用户提供的PDF及截图，和本次核对产生的明确标注辅助图像。未额外收集外部个人资料。",
+  "records": [
+    {
+      "path": "01_原始PDF/a015854add74ef679cc33338adf3877c.pdf",
+      "kind": "原始资料",
+      "description": "三资清查公示 共22页",
+      "source_filename": "a015854add74ef679cc33338adf3877c.pdf",
+      "size_bytes": 4469537,
+      "sha256": "0e15a4976f0ef345875edd094143662bf82783adf947386bce482e2b0a87ba50",
+      "pdf_pages": 22
+    },
+    {
+      "path": "01_原始PDF/f63b5852f5dc9f9040f460e1158742d7.pdf",
+      "kind": "原始资料",
+      "description": "成效统计表及资产资源补充说明 共4页",
+      "source_filename": "f63b5852f5dc9f9040f460e1158742d7.pdf",
+      "size_bytes": 1168164,
+      "sha256": "3161336eb601cc559ea08555d7c1bc21f3f867b205616a9b599eb52d2b7e5be3",
+      "pdf_pages": 4
+    },
+    {
+      "path": "01_原始PDF/893a4e9962ffd908f66eea88f65af355.pdf",
+      "kind": "原始资料",
+      "description": "一村一策方案及公示栏照片 共2页",
+      "source_filename": "893a4e9962ffd908f66eea88f65af355.pdf",
+      "size_bytes": 836240,
+      "sha256": "ac3fd7b6e3f295d7a8e5ba689a83cbf20350c63c8f475cda9545d9856b3449d1",
+      "pdf_pages": 2
+    },
+    {
+      "path": "02_原始截图/01_议题一_三资清查结果确认.png",
+      "kind": "原始资料",
+      "description": "议题一 三资清查结果确认",
+      "source_filename": "codex-clipboard-1f86950d-8e9e-4ac7-a36c-09ce4d0b452d.png",
+      "size_bytes": 740332,
+      "sha256": "87057ce3361d586dffca94de934a211440c610ae8d325124f42ab6b8b857e336",
+      "processing": "仅重命名归档 原图像文件内容未修改",
+      "pixel_dimensions": [
+        1260,
+        2736
+      ]
+    },
+    {
+      "path": "02_原始截图/02_议题二_结果成效统计.png",
+      "kind": "原始资料",
+      "description": "议题二 三资清查结果成效统计",
+      "source_filename": "codex-clipboard-0dab2f37-92ec-4475-b513-e3fb3538f8eb.png",
+      "size_bytes": 538208,
+      "sha256": "192e0ac8702d13686eda2a7612ff3e4f99596696b53a7af507d178e94bedeb63",
+      "processing": "仅重命名归档 原图像文件内容未修改",
+      "pixel_dimensions": [
+        1260,
+        2736
+      ]
+    },
+    {
+      "path": "02_原始截图/03_议题三_一村一策补充说明.png",
+      "kind": "原始资料",
+      "description": "议题三 一村一策补充及会议归档说明",
+      "source_filename": "codex-clipboard-bcb01a15-4e97-4d3d-82cb-1204a7c111bc.png",
+      "size_bytes": 454135,
+      "sha256": "79886659afe8225b96b84158e88df6924e2cde77745ec3d52bd02506a619526a",
+      "processing": "仅重命名归档 原图像文件内容未修改",
+      "pixel_dimensions": [
+        1260,
+        2736
+      ]
+    },
+    {
+      "path": "02_原始截图/04_会议详情_成员代表大会.png",
+      "kind": "原始资料",
+      "description": "会议类型及签到情况",
+      "source_filename": "codex-clipboard-df1872b7-fbda-4909-9756-209af2f09a3b.png",
+      "size_bytes": 846047,
+      "sha256": "6364502325607d94dc1d2d4104938996900ce39e49f96b983b989eaaf54c0003",
+      "processing": "仅重命名归档 原图像文件内容未修改",
+      "pixel_dimensions": [
+        1260,
+        2736
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/01_电脑金额_整页标注.png",
+      "kind": "阅读辅助材料",
+      "description": "01_电脑金额_整页标注.png",
+      "source_filename": "第2页-电脑金额-整页定位.png",
+      "size_bytes": 1372517,
+      "sha256": "464f87647163422c909226ad494ef1653c84eeacd9d11ad56ad4895bd21ae587",
+      "source_document": "01_原始PDF/a015854add74ef679cc33338adf3877c.pdf",
+      "source_pdf_page": 2,
+      "processing": "导出页面图像并旋转 加红框定位",
+      "source_document_sha256": "0e15a4976f0ef345875edd094143662bf82783adf947386bce482e2b0a87ba50",
+      "pixel_dimensions": [
+        1690,
+        1267
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/02_电脑金额_局部放大.png",
+      "kind": "阅读辅助材料",
+      "description": "02_电脑金额_局部放大.png",
+      "source_filename": "第2页-电脑金额-局部放大.png",
+      "size_bytes": 330895,
+      "sha256": "0d06f3e82054e7465de9ad6f047b9c77e741826e0cba3d7f7fe84165c953dc43",
+      "source_document": "01_原始PDF/a015854add74ef679cc33338adf3877c.pdf",
+      "source_pdf_page": 2,
+      "processing": "原图裁切 放大及红框文字标注 未替换原图数字",
+      "source_document_sha256": "0e15a4976f0ef345875edd094143662bf82783adf947386bce482e2b0a87ba50",
+      "pixel_dimensions": [
+        2270,
+        415
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/03_清查表第2页_原图导出.png",
+      "kind": "阅读辅助材料",
+      "description": "03_清查表第2页_原图导出.png",
+      "source_filename": "read-02.png",
+      "size_bytes": 1376816,
+      "sha256": "7069e6ef7635444090b50c8d7a176505584f0820f098b9b5a9c8a09596f6f83d",
+      "source_document": "01_原始PDF/a015854add74ef679cc33338adf3877c.pdf",
+      "source_pdf_page": 2,
+      "processing": "从PDF导出图像并旋转 未作内容标注",
+      "source_document_sha256": "0e15a4976f0ef345875edd094143662bf82783adf947386bce482e2b0a87ba50",
+      "pixel_dimensions": [
+        1690,
+        1267
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/04_清查表第4页_资产合计.png",
+      "kind": "阅读辅助材料",
+      "description": "04_清查表第4页_资产合计.png",
+      "source_filename": "read-04.png",
+      "size_bytes": 788935,
+      "sha256": "18ef2e701df682ad0724df7f5d926c6b49f6a5080f17173b87ea265be3cd4f9b",
+      "source_document": "01_原始PDF/a015854add74ef679cc33338adf3877c.pdf",
+      "source_pdf_page": 4,
+      "processing": "从PDF导出图像并旋转 未作内容标注",
+      "source_document_sha256": "0e15a4976f0ef345875edd094143662bf82783adf947386bce482e2b0a87ba50",
+      "pixel_dimensions": [
+        1690,
+        1267
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/05_补充件第1页_成效统计表.png",
+      "kind": "阅读辅助材料",
+      "description": "05_补充件第1页_成效统计表.png",
+      "source_filename": "read-01.png",
+      "size_bytes": 1121123,
+      "sha256": "3c51bfc08a1658b61e996784b40995432720e02d345eff9a881d88ed0f5d42b8",
+      "source_document": "01_原始PDF/f63b5852f5dc9f9040f460e1158742d7.pdf",
+      "source_pdf_page": 1,
+      "processing": "从PDF导出图像并旋转 未作内容标注",
+      "source_document_sha256": "3161336eb601cc559ea08555d7c1bc21f3f867b205616a9b599eb52d2b7e5be3",
+      "pixel_dimensions": [
+        1707,
+        1280
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/06_补充件第3页_资源情况说明.png",
+      "kind": "阅读辅助材料",
+      "description": "06_补充件第3页_资源情况说明.png",
+      "source_filename": "original-03-1.png",
+      "size_bytes": 1202065,
+      "sha256": "291f64e5df178ba85d1551b9e3e0401a2357df0ed63d7c0349adc512a5feca3e",
+      "source_document": "01_原始PDF/f63b5852f5dc9f9040f460e1158742d7.pdf",
+      "source_pdf_page": 3,
+      "processing": "从PDF导出图像 未作内容标注",
+      "source_document_sha256": "3161336eb601cc559ea08555d7c1bc21f3f867b205616a9b599eb52d2b7e5be3",
+      "pixel_dimensions": [
+        1280,
+        1707
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/07_补充件第4页_资产情况说明.png",
+      "kind": "阅读辅助材料",
+      "description": "07_补充件第4页_资产情况说明.png",
+      "source_filename": "original-04-1.png",
+      "size_bytes": 1358630,
+      "sha256": "22a5c48eb002baaa182de17932ed1155204cdc39ff6792559bae5babf1d609c7",
+      "source_document": "01_原始PDF/f63b5852f5dc9f9040f460e1158742d7.pdf",
+      "source_pdf_page": 4,
+      "processing": "从PDF导出图像 未作内容标注",
+      "source_document_sha256": "3161336eb601cc559ea08555d7c1bc21f3f867b205616a9b599eb52d2b7e5be3",
+      "pixel_dimensions": [
+        1280,
+        1707
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/08_方案第1页_一村一策.png",
+      "kind": "阅读辅助材料",
+      "description": "08_方案第1页_一村一策.png",
+      "source_filename": "original-01-1.png",
+      "size_bytes": 1176642,
+      "sha256": "cad59909b3990e43723154205f4fc7bb998a1182ffbed8a6dcb19eb184823827",
+      "source_document": "01_原始PDF/893a4e9962ffd908f66eea88f65af355.pdf",
+      "source_pdf_page": 1,
+      "processing": "从PDF导出图像 未作内容标注",
+      "source_document_sha256": "ac3fd7b6e3f295d7a8e5ba689a83cbf20350c63c8f475cda9545d9856b3449d1",
+      "pixel_dimensions": [
+        1280,
+        1707
+      ]
+    },
+    {
+      "path": "03_重点页与标注图/09_清查表第13页_可读性核对.png",
+      "kind": "阅读辅助材料",
+      "description": "09_清查表第13页_可读性核对.png",
+      "source_filename": "read-13.png",
+      "size_bytes": 1582676,
+      "sha256": "7564956595c041a164528924a51e67b38832f192dca1f0ef72643352fbd5e496",
+      "source_document": "01_原始PDF/a015854add74ef679cc33338adf3877c.pdf",
+      "source_pdf_page": 13,
+      "processing": "从PDF导出图像并旋转 可核对小字及页面底部完整性",
+      "source_document_sha256": "0e15a4976f0ef345875edd094143662bf82783adf947386bce482e2b0a87ba50",
+      "pixel_dimensions": [
+        1690,
+        1267
+      ]
+    },
+    {
+      "path": "04_整理文本/01_反馈意见_可直接复制.txt",
+      "kind": "整理文本",
+      "size_bytes": 1272,
+      "sha256": "92f19bec807c3a436def8e71a253590214ca603ac6f47b58e688457ab5c0e27e"
+    },
+    {
+      "path": "04_整理文本/02_问题与来源索引.txt",
+      "kind": "整理文本",
+      "size_bytes": 3484,
+      "sha256": "30a4eb00a79a5c6d6534b6140ab077efb53b9c4a66734a26e03e0b2b9b97e7ce"
+    },
+    {
+      "path": "04_整理文本/03_已核对数字与范围.txt",
+      "kind": "整理文本",
+      "size_bytes": 1718,
+      "sha256": "2e903fe461146cedae50993c896a027e2a0b0bfa49da9f7678d56677a14b498c"
+    },
+    {
+      "path": "00_先看这里.txt",
+      "kind": "整理文本",
+      "size_bytes": 1868,
+      "sha256": "1ba859c579633af739c3ef5f9e3bacecd9f2fc0a192ea648da9b31928ce4cd43"
+    }
+  ]
+}
